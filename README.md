@@ -21,11 +21,11 @@ finished Jasmine testing.
 
 The Udacity [Project rubric](https://review.udacity.com/#!/projects/3442558598/rubric) has a list of all the minimium requirements to complete the project.
 
-I also received a lot of pointers from my Udacity peer Matthew Cranford's [Feed Reader
+I also received a lot of pointers from my Udacity peer Matthew Cranford: [Feed Reader
 Walkthrough Part 1 – Starter Code](https://matthewcranford.com/feed-reader-walkthrough-part-1-starter-code/).
 This helped me get started on this project. Thanks!
 
-This article also helped with the last test [Testing JavaScript with
+This article also helped with the last test: [Testing JavaScript with
 Jasmine — Basics](https://medium.com/letsboot/testing-javascript-with-jasmine-basics-48efe03cf973).
 
 #### Learned
