@@ -1,5 +1,4 @@
-    Feed Reader Testing
-
+Feed Reader Testing
 ===============================
 
 ## Description
